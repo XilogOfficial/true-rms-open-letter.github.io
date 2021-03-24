@@ -12,6 +12,8 @@ We urge those in a position to do so to stop supporting Big Multimeter. Refuse t
 
 To sign, [submit a pull request](https://github.com/XilogOfficial/true-rms-open-letter.github.io/pulls).
 
+[Original](https://rms-open-letter.github.io/)
+
 Signed,
 
 - Alan D'souza
