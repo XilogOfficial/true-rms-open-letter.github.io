@@ -1,4 +1,4 @@
-### [Original](https://rms-open-letter.github.io/)
+[Original](https://rms-open-letter.github.io/)
 
 *2021-03-24*
 
