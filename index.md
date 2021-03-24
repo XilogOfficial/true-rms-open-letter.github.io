@@ -1,3 +1,5 @@
+### [Original](https://rms-open-letter.github.io/)
+
 *2021-03-24*
 
 Root Mean Square, frequently known as RMS, has been a dangerous force for multimeters to tackle for a long time. It is still possible to find multimeters that don't offer accurate TRUE RMS capability. This sort of thing has no place in multimeters. We call for the entire Board of Big Multimeter to be replaced because they are holding back the glory of TRUE RMS from us.
@@ -11,8 +13,6 @@ There has been enough tolerance of the lack of TRUE RMS. We cannot continue to l
 We urge those in a position to do so to stop supporting Big Multimeter. Refuse to purchase multimeters without TRUE RMS. Do not speak about these meters. We ask for owners of multimeters without TRUE RMS to take a stand against bigotry and hate. While doing these things, tell these communities and Big Multimeter why.
 
 To sign, [submit a pull request](https://github.com/XilogOfficial/true-rms-open-letter.github.io/pulls).
-
-[Original](https://rms-open-letter.github.io/)
 
 Signed,
 
