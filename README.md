@@ -1,4 +1,3 @@
+Funny fork of (rms-open-letter)[https://rms-open-letter.github.io/]
 
-Thanks for volunteering to sign this open letter!
-
-Starting at 2021-03-24 00:30 UTC, we will continue to merge PRs in batches.
+If you wanna sign make a PR adding your name. Any other changes may be declined.
